@@ -358,7 +358,7 @@ footer {
     .footer__social_links {
       display: flex;
       justify-self: end;
-      & a:not(:last-child) {
+      & li:not(:last-child) {
         margin-right: 1em;
       }
       & a {

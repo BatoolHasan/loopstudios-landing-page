@@ -446,7 +446,7 @@ footer .container .footer__social_links {
   justify-self: end;
 }
 
-footer .container .footer__social_links a:not(:last-child) {
+footer .container .footer__social_links li:not(:last-child) {
   margin-right: 1em;
 }
 
